@@ -8,6 +8,7 @@
 - numpy
 - pandas
 - scikit-learn
+- opencv-python
 
 ## Setup
 
